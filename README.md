@@ -5,7 +5,7 @@ Version 0.1 fully functional. Version 0.2 in progress.
 ***
 ## scheme:
 ### scheme:
-![scheme](docs/scheme_v0.1.pdf)
+[pdf](docs/scheme_v0.1.pdf)
 ### helper:
 ![helper](docs/helper.jpg)
 
