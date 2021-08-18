@@ -65,5 +65,5 @@ Version 0.2 functional with some errors:
 ***
 ## gerber:
 Archive for production:
-[gerber](https://github.com/piro-s/mega48_super_board/raw/main/gerber/mega48_super_board_v0.1.zip)
-[gerber](https://github.com/piro-s/mega48_super_board/raw/main/gerber/mega48_super_board_v0.2.zip)
+[gerber_v0.1](https://github.com/piro-s/mega48_super_board/raw/main/gerber/mega48_super_board_v0.1.zip)
+[gerber_v0.2](https://github.com/piro-s/mega48_super_board/raw/main/gerber/mega48_super_board_v0.2.zip)
