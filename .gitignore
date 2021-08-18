@@ -12,6 +12,9 @@
 # Don't ignore views
 !view/**
 
+# Don't ignore gerber generated files
+!mega48_super_board*.zip
+
 
 # Don't ignore project files
 !*.PrjPcb
@@ -26,8 +29,12 @@
 # Don't ignore output files
 !*.OutJob
 
-# Don't ignore gerber generated files
-!mega48_super_board*.zip
+
+# Don't ignore KiCad files
+!*.kicad_pcb
+!*.pro
+!*.sch
+
 
 # Even if they are in subdirectories
-!*/ 
+!**/ 
