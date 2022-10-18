@@ -9,6 +9,9 @@
 # Don't ignore docs
 !docs/*
 
+# Don't ignore helpers
+!helper/*
+
 # Don't ignore views
 !view/**
 
